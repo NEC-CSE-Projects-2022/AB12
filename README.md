@@ -1,5 +1,6 @@
 Smoking Status Prediction using Blended Deep Learning
-Team Info
+
+#Team Info:
 22471A0517 — Duggi Sampath Kumar ( [LinkedIn](https://www.linkedin.com/in/sampath-kumar-duggi-b73b2b379?utm_source=share_via&utm_content=profile&utm_medium=member_android) )
 Work Done: Data preprocessing, EDA, documentation
 22471A0513 — Chirumala Charan Teja ([LinkedIn](
